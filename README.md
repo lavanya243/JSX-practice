@@ -1,2 +1,2 @@
-# JSX_Practice_js_practice
+# JSX js practice
 Created with CodeSandbox
